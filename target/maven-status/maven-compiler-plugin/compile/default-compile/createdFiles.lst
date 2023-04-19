@@ -1,0 +1,8 @@
+logica\Alumno_.class
+com\mycompany\pruebajpa\PruebaJPA.class
+persistencia\exceptions\NonexistentEntityException.class
+logica\Alumno.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\AlumnoJpaController.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
